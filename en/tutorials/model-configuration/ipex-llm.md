@@ -2,7 +2,7 @@
 
 [IPEX-LLM](https://github.com/intel-analytics/ipex-llm) is a PyTorch library for running LLM on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max) with very low latency. 
 
-Dify supports integrating LLM and Text Embedding capabilities of large language models deployed with IPEX-LLM.
+Dify supports integrating LLM and Text Embedding capabilities of large language models deployed with IPEX-LLM on Intel platforms.
 
 ## Quick Integration
 
